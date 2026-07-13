@@ -1,0 +1,12 @@
+{
+  "name": "haxball-bot",
+  "version": "1.0.0",
+  "description": "Mi server de Haxball",
+  "main": "bot.js",
+  "dependencies": {
+    "haxball-headless-manager": "^1.0.0"
+  },
+  "scripts": {
+    "start": "node bot.js"
+  }
+}
